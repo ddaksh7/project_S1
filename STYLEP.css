@@ -1,0 +1,23 @@
+<style>
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f5f5f5;
+}
+
+h1{
+    color: #1e3a8a;
+}
+
+h2{
+    color: #2563eb;
+}
+
+img{
+    border-radius: 50%;
+}
+
+section{
+    margin-bottom: 20px;
+}
+</style>
